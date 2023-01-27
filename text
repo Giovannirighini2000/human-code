@@ -1,0 +1,38 @@
+accendo il pc 
+
+entro in google
+
+cerco amazon e mi collego al mio account amazon 
+
+cerco un regalo per silvia per il suo compleanno
+ 
+inzio cercando una lampada da tavolo particolare che gli piaceva tanto 
+
+   SE la consegna e con amazon prime e che arriverebbe entro le 24 ore ed inferiore al budeget
+                    aggiungo al carrello
+					procedo al checkout
+					inserisco indirizzo e metodo di pagamento
+					imposto la confezione regalo e scrivo un biglietto di auguri
+					procedo all'acquisto 
+   
+  ALTRIMENTI cerco una buona penna stilografica 
+
+   SE la consegna e con amazon prime e che arriverebbe entro le 24 ore ed inferiore al budeget
+                    aggiungo al carrello
+					procedo al checkout
+					inserisco indirizzo e metodo di pagamento
+					imposto la confezione regalo e scrivo un biglietto di auguri
+					procedo all'acquisto
+  
+  
+  FINCHè il carrello rimane vuoto
+        
+			Cerco LIBRO
+
+				SE è dispoonibile la consegna PRIME E SE prezzo < budget
+                
+					aggiungo al carrello
+					procedo al checkout
+					inserisco indirizzo e metodo di pagamento
+					imposto la confezione regalo e scrivo un biglietto di auguri
+					procedo all'acquisto
